@@ -6,9 +6,9 @@
 
    <p align="left">  
       <a href="https://github.com/leonardocrizzi?tab=followers">
-         <img alt="Seguidores" title="Me siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/leonardocrizzi?color=7490c1&labelColor=5174b1&style=for-the-badge&logo=github&label=seguidores&logoColor=white"/></a>
+         <img alt="Seguidores" title="Me siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/leonardocrizzi?color=444444&labelColor=151515&style=for-the-badge&logo=github&label=seguidores&logoColor=white"/></a>
       <a href="https://github.com/leonardocrizzi?tab=repositories&sort=stargazers">
-         <img alt="total estrelas" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/leonardocrizzi?color=5fc7bc&style=for-the-badge&labelColor=37b9ab&logo=star&label=estrelas"/></a>
+         <img alt="total estrelas" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/leonardocrizzi?color=51cb81&style=for-the-badge&labelColor=25be62&logo=star&label=estrelas"/></a>
    </p>
 
 ---
