@@ -1,8 +1,8 @@
-# 📊 Leonardo Chaves Rizzi
+# 💻 Leonardo Chaves Rizzi
 
 **`Analista de Dados`**
 
-> Meu nome é Leonardo Chaves Rizzi, tenho 19 anos, sou formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário de João Pessoa (Unipê) e atualmente estou estudando para me tornar um Analista de Dados. Sou uma pessoa que sempre gostou de computadores e decidi ingressar na área de tecnologia! Caso queira entrar em contato comigo mande uma mensagem para mim no meu perfil do linkedin clicando [aqui](https://www.linkedin.com/in/leonardo-chaves-rizzi-2b828b263/) ou abaixo da minha bio!
+> Meu nome é Leonardo Chaves Rizzi, tenho 19 anos, sou formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário de João Pessoa (Unipê) e atualmente estou estudando para me tornar um Desenvolvedor Front-End. Sou uma pessoa que sempre gostou de computadores e decidi ingressar na área de tecnologia! Caso queira entrar em contato comigo mande uma mensagem para mim no meu perfil do linkedin clicando [aqui](https://www.linkedin.com/in/leonardo-chaves-rizzi-2b828b263/) ou abaixo da minha bio!
 
    <p align="left">  
       <a href="https://github.com/leonardocrizzi?tab=followers">
@@ -17,35 +17,24 @@
 
 <img 
   align="left"
-  title="EXCEL"
+  title="HTML"
   style="padding-right: 10px" 
-  width="40" 
-  height="40" 
-  src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"
+  width="40"  
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="Html"
 />
 <img
   align="left"
-  alt="SQL"
-  title="SQL"
+  title="CSS"
   width="40px"
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img
   align="left"
-  alt="PYTHON"
-  title="PYTHON"
+  title="JavaScript"
   width="40px"
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-  align="left" 
-  title="POWER BI"
-  style="padding-right: 10px"
-  width="40" 
-  height="40" 
-  src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
 <br/>
