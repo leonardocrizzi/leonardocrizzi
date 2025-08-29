@@ -38,6 +38,27 @@
 />
 <img
   align="left"
+  title="JavaScript"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img
+  align="left"
+  title="React"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img
+  align="left"
+  title="NextJs"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img
+  align="left"
   title="Python"
   width="40px"
   style="padding-right: 10px;"
