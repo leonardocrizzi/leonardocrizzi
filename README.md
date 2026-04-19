@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-> Meu nome é Leonardo Chaves Rizzi, tenho 19 anos, sou formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário de João Pessoa (Unipê) e atualmente estou estudando para me tornar um Desenvolvedor Front-End. Sou uma pessoa que sempre gostou de computadores e decidi ingressar na área de tecnologia! Caso queira entrar em contato comigo mande uma mensagem para mim no meu perfil do linkedin clicando [aqui](https://www.linkedin.com/in/leonardo-chaves-rizzi-2b828b263/) ou abaixo da minha bio!
+> Meu nome é Leonardo Chaves Rizzi, tenho 19 anos, sou formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário de João Pessoa (Unipê) e atualmente estou estudando para me tornar um Engenheiro de Dados. Sou uma pessoa que sempre gostou de computadores e decidi ingressar na área de tecnologia! Caso queira entrar em contato comigo mande uma mensagem para mim no meu perfil do linkedin clicando [aqui](https://www.linkedin.com/in/leonardo-chaves-rizzi-2b828b263/) ou abaixo da minha bio!
 
    <p align="left">  
       <a href="https://github.com/leonardocrizzi?tab=followers">
@@ -15,48 +15,6 @@
 
 ### ⚙️ Linguagens e Tecnologias
 
-<img 
-  align="left"
-  title="HTML"
-  style="padding-right: 10px" 
-  width="40"  
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
-<img
-  align="left"
-  title="CSS"
-  width="40px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img
-  align="left"
-  title="JavaScript"
-  width="40px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img
-  align="left"
-  title="JavaScript"
-  width="40px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img
-  align="left"
-  title="React"
-  width="40px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img
-  align="left"
-  title="NextJs"
-  width="40px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
 <img
   align="left"
   title="Python"
