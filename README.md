@@ -1,6 +1,6 @@
 # 💻 Leonardo Chaves Rizzi
 
-**`Desenvolvedor Front-End`**
+**`Engenheiro de Dados`**
 
 > Meu nome é Leonardo Chaves Rizzi, tenho 20 anos, sou formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário de João Pessoa (Unipê) e atualmente estou estudando para me tornar um Engenheiro de Dados. Sou uma pessoa que sempre gostou de computadores e decidi ingressar na área de tecnologia! Caso queira entrar em contato comigo mande uma mensagem para mim no meu perfil do linkedin clicando [aqui](https://www.linkedin.com/in/leonardo-chaves-rizzi-2b828b263/) ou abaixo da minha bio!
 
